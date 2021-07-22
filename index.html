@@ -1,0 +1,20 @@
+<html>
+<head>
+  <link rel="stylesheet" href="PngSubtitles.css">
+  
+</head>
+<!-- Video Tag must have a specific id -->
+    <video id="myVideo"  controls  preload="metadata">
+      <source src="test.mp4" type="video/mp4">
+    </video>
+
+<!-- include class  -->
+
+<script src="PngSubtitles.js"></script>
+
+<!-- create an object to add subtitles to the video  -->
+<script>
+  //PngSubtitles( ID od the video tag , Path to JSON FILE)
+ const arabic= new PngSubtitles("myVideo","subtitles/test.json")
+</script>
+</html>
