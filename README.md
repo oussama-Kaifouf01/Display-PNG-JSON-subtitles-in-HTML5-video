@@ -1,6 +1,6 @@
 "# Png Subtitles Displayer" 
 
-<h1>When to use this library?/h1>
+<h1>When to use this library?</h1>
 
 In some cases we find subtitles of type TTML2+PNG, displaying them in a video requires to convert them into a supported type of subtitles (like .vtt or .srt) by using Subtitles Edit software, however it's a complicated OCR conversion which is not an accurate operation and takes long time to complete. On the other hand there is a way to display them in a sorted way in an HTML5 video by using this library.
 
