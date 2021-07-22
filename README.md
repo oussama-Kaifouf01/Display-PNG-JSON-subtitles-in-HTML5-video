@@ -23,7 +23,7 @@ In some cases we find subtitles of type TTML2+PNG, displaying them in a video re
 Here we have "myVideo" as an id.
 
 3-Place the subtitles folder that contains png files and JSON file somewhere in your web project.
-  P.S:Mostly there is XML instead of JSON so you have to convert it into JSON https://www.utilities-online.info/xmltojson
+P.S:Mostly there is XML instead of JSON so you have to convert it into JSON https://www.utilities-online.info/xmltojson
   
 e.g:https://github.com/oussama-Kaifouf01/Display-PNG-JSON-subtitles-in-HTML5-video/tree/main/subtitles
 
